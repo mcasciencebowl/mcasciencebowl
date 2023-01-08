@@ -1,4 +1,4 @@
-- 👋 Hi, we're @mcasciencebowl
+- 👋 Hi, we're the MCA Science Bowl Team!
 - 👀 We're currently working on hosting the 3rd annaul MCASB
 - 🌱 Working on organizing the competition
 - 📫 Contact us at mcasciencebowl@gmail.com
