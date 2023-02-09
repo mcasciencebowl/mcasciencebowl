@@ -1,5 +1,5 @@
 - 👋 Hi, we're the MCA Science Bowl Team!
-- 👀 We're currently working on hosting the 3rd annaul MCASB
+- 👀 Looking for middle schoolers interested in the sciences
 - 🌱 Working on organizing the competition
 - 📫 Contact us at mcasciencebowl@gmail.com
 - 🌐 Visit us at https://mcasciencebowl.org
